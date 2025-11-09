@@ -118,7 +118,7 @@ int main() {
                 cout << "\n--- RIWAYAT AKTIVITAS ---\n";
                 for (int i = 0; i < riwayat.size(); i++) {
                     cout << i + 1 << ". [" << riwayat[i].kategori << "] "
-                         << riwayat[i].nama << " | " << riwayat[i].durasiMenit << " menit\n";
+                        << riwayat[i].nama << " | " << riwayat[i].durasiMenit << " menit\n";
                 }
             }
         }
